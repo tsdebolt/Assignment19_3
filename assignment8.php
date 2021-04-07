@@ -7,6 +7,7 @@ Date: 2/10/21
 //error_reporting(0);
 
 //This is for the merge conflict
+//This is a test
 
 //*******************************Artist Class****************************
 Class Artist {
